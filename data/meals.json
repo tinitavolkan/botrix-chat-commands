@@ -1,0 +1,1404 @@
+{
+  "MEAL_MENUS": [
+    {
+      "id": "a01",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Menemen",
+      "side": "beyaz peynir, zeytin ve taze ekmek"
+    },
+    {
+      "id": "a02",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Simit tabağı",
+      "side": "beyaz peynir, domates, salatalık ve çay"
+    },
+    {
+      "id": "a03",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Sucuklu yumurta",
+      "side": "domates, zeytin ve kızarmış ekmek"
+    },
+    {
+      "id": "a04",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Patatesli omlet",
+      "side": "beyaz peynir ve söğüş sebzeler"
+    },
+    {
+      "id": "a05",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Kaşarlı tost",
+      "side": "domates, salatalık ve çay"
+    },
+    {
+      "id": "a06",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Tahinli çörek",
+      "side": "süt ve mevsim meyveleri"
+    },
+    {
+      "id": "a07",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Ispanaklı gözleme",
+      "side": "domates, zeytin ve ayran"
+    },
+    {
+      "id": "a08",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Peynirli tepsi böreği",
+      "side": "söğüş domates ve çay"
+    },
+    {
+      "id": "a09",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Zeytinli poğaça",
+      "side": "beyaz peynir, salatalık ve çay"
+    },
+    {
+      "id": "a10",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Çılbır",
+      "side": "kızarmış ekmek ve söğüş domates"
+    },
+    {
+      "id": "a11",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Yumurtalı ekmek",
+      "side": "beyaz peynir, zeytin ve domates"
+    },
+    {
+      "id": "a12",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Pişi",
+      "side": "peynir, bal ve çay"
+    },
+    {
+      "id": "a13",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Akıtma",
+      "side": "labne, reçel ve çay"
+    },
+    {
+      "id": "a14",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Tereyağlı sıcak bazlama",
+      "side": "tulum peyniri, zeytin ve domates"
+    },
+    {
+      "id": "a15",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Mıhlama",
+      "side": "mısır ekmeği ve söğüş salatalık"
+    },
+    {
+      "id": "a16",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Haşlanmış yumurta tabağı",
+      "side": "beyaz peynir, zeytin, domates ve ekmek"
+    },
+    {
+      "id": "a17",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Pankek",
+      "side": "bal, muz ve süt"
+    },
+    {
+      "id": "a18",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Granola ve yoğurt",
+      "side": "çilek ve ceviz"
+    },
+    {
+      "id": "a19",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Sütlü yulaf lapası",
+      "side": "muz, tarçın ve fındık"
+    },
+    {
+      "id": "a20",
+      "category": "kahvalti",
+      "label": "Kahvaltı",
+      "main": "Lor peynirli kahvaltı salatası",
+      "side": "kızarmış ekmek ve çay"
+    },
+    {
+      "id": "a21",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Tarhana çorbası",
+      "side": "peynirli tost ve söğüş salatalık"
+    },
+    {
+      "id": "a22",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Yayla çorbası",
+      "side": "sebzeli bulgur pilavı"
+    },
+    {
+      "id": "a23",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Domates çorbası",
+      "side": "kaşarlı kruton ve roka salatası"
+    },
+    {
+      "id": "a24",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Mantar çorbası",
+      "side": "sarımsaklı ekmek ve yeşil salata"
+    },
+    {
+      "id": "a25",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Şehriye çorbası",
+      "side": "fırında peynirli ekmek"
+    },
+    {
+      "id": "a26",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Balkabağı çorbası",
+      "side": "kızarmış ekmek ve cevizli roka salatası"
+    },
+    {
+      "id": "a27",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Sebze çorbası",
+      "side": "fırında kaşarlı patates"
+    },
+    {
+      "id": "a28",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Zeytinyağlı biber dolması",
+      "side": "yoğurt ve domates salatası"
+    },
+    {
+      "id": "a29",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Zeytinyağlı yaprak sarma",
+      "side": "cacık ve limon dilimleri"
+    },
+    {
+      "id": "a30",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Zeytinyağlı kuru patlıcan dolması",
+      "side": "süzme yoğurt ve çoban salata"
+    },
+    {
+      "id": "a31",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Pirinçli kabak dolması",
+      "side": "sarımsaklı yoğurt"
+    },
+    {
+      "id": "a32",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Zeytinyağlı lahana sarması",
+      "side": "yoğurt ve turşu"
+    },
+    {
+      "id": "a33",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Su böreği",
+      "side": "domates salatası ve ayran"
+    },
+    {
+      "id": "a34",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Patatesli kol böreği",
+      "side": "yeşil salata ve ayran"
+    },
+    {
+      "id": "a35",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Pırasalı börek",
+      "side": "yoğurt ve söğüş domates"
+    },
+    {
+      "id": "a36",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Fırında sebzeli yumurta",
+      "side": "yeşil salata ve kızarmış ekmek"
+    },
+    {
+      "id": "a37",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Sebzeli bulgur pilavı",
+      "side": "cacık ve turşu"
+    },
+    {
+      "id": "a38",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Mantarlı pirinç pilavı",
+      "side": "yoğurt ve mevsim salatası"
+    },
+    {
+      "id": "a39",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Domatesli peynir güveci",
+      "side": "kızarmış ekmek ve roka salatası"
+    },
+    {
+      "id": "a40",
+      "category": "ev",
+      "label": "Ev yemeği",
+      "main": "Tereyağlı buğday keşkeği",
+      "side": "turşu ve yeşil salata"
+    },
+    {
+      "id": "a41",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Fırında tavuk but",
+      "side": "patates ve çoban salata"
+    },
+    {
+      "id": "a42",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk sote",
+      "side": "pirinç pilavı ve cacık"
+    },
+    {
+      "id": "a43",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Pane tavuk şeritleri",
+      "side": "fırın patates ve yoğurtlu sos"
+    },
+    {
+      "id": "a44",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk şinitzel",
+      "side": "patates salatası ve limon dilimleri"
+    },
+    {
+      "id": "a45",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk köftesi",
+      "side": "bulgur pilavı ve yeşil salata"
+    },
+    {
+      "id": "a46",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Sebzeli tavuk haşlama",
+      "side": "limon ve kızarmış ekmek"
+    },
+    {
+      "id": "a47",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Fırında tavuk kanat",
+      "side": "patates dilimleri ve havuçlu lahana salatası"
+    },
+    {
+      "id": "a48",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Izgara tavuk pirzola",
+      "side": "sebzeli bulgur pilavı ve ayran"
+    },
+    {
+      "id": "a49",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk şiş",
+      "side": "lavaş, köz biber ve sumaklı soğan"
+    },
+    {
+      "id": "a50",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk çökertme",
+      "side": "domates salatası"
+    },
+    {
+      "id": "a51",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuklu hünkârbeğendi",
+      "side": "roka salatası ve ayran"
+    },
+    {
+      "id": "a52",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Ballı hardallı tavuk",
+      "side": "patates püresi ve yeşil salata"
+    },
+    {
+      "id": "a53",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Limonlu tavuk",
+      "side": "pirinç pilavı ve buharda brokoli"
+    },
+    {
+      "id": "a54",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Mantarlı kremalı tavuk",
+      "side": "patates püresi ve roka salatası"
+    },
+    {
+      "id": "a55",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Köri soslu tavuk",
+      "side": "pirinç pilavı ve salatalık salatası"
+    },
+    {
+      "id": "a56",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk güveç",
+      "side": "bulgur pilavı ve cacık"
+    },
+    {
+      "id": "a57",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuk kapama",
+      "side": "yoğurt ve yeşil salata"
+    },
+    {
+      "id": "a58",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuklu patates graten",
+      "side": "mevsim salatası"
+    },
+    {
+      "id": "a59",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuklu orman kebabı",
+      "side": "pirinç pilavı ve yoğurt"
+    },
+    {
+      "id": "a60",
+      "category": "tavuk",
+      "label": "Tavuk",
+      "main": "Tavuklu karnıyarık",
+      "side": "bulgur pilavı ve cacık"
+    },
+    {
+      "id": "a61",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "İmambayıldı",
+      "side": "pirinç pilavı ve cacık"
+    },
+    {
+      "id": "a62",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Zeytinyağlı enginar",
+      "side": "dereotlu yoğurt ve ekmek"
+    },
+    {
+      "id": "a63",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Kabak mücver",
+      "side": "sarımsaklı yoğurt ve çoban salata"
+    },
+    {
+      "id": "a64",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Zeytinyağlı pırasa",
+      "side": "yoğurt ve kızarmış ekmek"
+    },
+    {
+      "id": "a65",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Portakallı kereviz",
+      "side": "pirinç pilavı ve yeşil salata"
+    },
+    {
+      "id": "a66",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Ispanak yemeği",
+      "side": "yoğurt ve bulgur pilavı"
+    },
+    {
+      "id": "a67",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Yoğurtlu pazı kavurması",
+      "side": "kızarmış ekmek ve domates salatası"
+    },
+    {
+      "id": "a68",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Karnabahar graten",
+      "side": "roka salatası"
+    },
+    {
+      "id": "a69",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Sarımsaklı brokoli sote",
+      "side": "pirinç pilavı ve yoğurt"
+    },
+    {
+      "id": "a70",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Fırında kaşarlı mantar",
+      "side": "patates püresi ve yeşil salata"
+    },
+    {
+      "id": "a71",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Sebzeli patates oturtma",
+      "side": "cacık ve çoban salata"
+    },
+    {
+      "id": "a72",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Peynirli kabak sandal",
+      "side": "bulgur pilavı ve mevsim salatası"
+    },
+    {
+      "id": "a73",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Şakşuka",
+      "side": "yoğurt ve taze ekmek"
+    },
+    {
+      "id": "a74",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Fırında türlü",
+      "side": "pirinç pilavı ve cacık"
+    },
+    {
+      "id": "a75",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Domatesli bamya",
+      "side": "bulgur pilavı ve yoğurt"
+    },
+    {
+      "id": "a76",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Ekşili lahana yemeği",
+      "side": "yoğurt ve ekmek"
+    },
+    {
+      "id": "a77",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Fırında Brüksel lahanası",
+      "side": "patates püresi ve yoğurtlu sos"
+    },
+    {
+      "id": "a78",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Zeytinyağlı yer elması",
+      "side": "yoğurt ve taze ekmek"
+    },
+    {
+      "id": "a79",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Semizotu yemeği",
+      "side": "sarımsaklı yoğurt ve bulgur pilavı"
+    },
+    {
+      "id": "a80",
+      "category": "sebze",
+      "label": "Sebze",
+      "main": "Peynirli fırın patates",
+      "side": "çoban salata ve ayran"
+    },
+    {
+      "id": "a81",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Kuru fasulye",
+      "side": "pirinç pilavı ve turşu"
+    },
+    {
+      "id": "a82",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Nohut yemeği",
+      "side": "bulgur pilavı ve cacık"
+    },
+    {
+      "id": "a83",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Yeşil mercimek yemeği",
+      "side": "yoğurt ve turşu"
+    },
+    {
+      "id": "a84",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Barbunya pilaki",
+      "side": "pirinç pilavı ve yeşil salata"
+    },
+    {
+      "id": "a85",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Mercimek köftesi",
+      "side": "marul, limon ve ayran"
+    },
+    {
+      "id": "a86",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Falafel",
+      "side": "lavaş, tahinli sos ve domates salatası"
+    },
+    {
+      "id": "a87",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Nohutlu bulgur pilavı",
+      "side": "cacık ve turşu"
+    },
+    {
+      "id": "a88",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Mercimek çorbası",
+      "side": "peynirli tost ve limon dilimleri"
+    },
+    {
+      "id": "a89",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Ezogelin çorbası",
+      "side": "kızarmış ekmek ve çoban salata"
+    },
+    {
+      "id": "a90",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Nohutlu yoğurt çorbası",
+      "side": "fırında sebzeler"
+    },
+    {
+      "id": "a91",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Mercimekli pazı sarma",
+      "side": "sarımsaklı yoğurt"
+    },
+    {
+      "id": "a92",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Maş fasulyesi salatası",
+      "side": "beyaz peynir ve kızarmış ekmek"
+    },
+    {
+      "id": "a93",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Kuru börülce salatası",
+      "side": "haşlanmış yumurta ve ekmek"
+    },
+    {
+      "id": "a94",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Fava",
+      "side": "zeytin, kırmızı soğan ve kızarmış ekmek"
+    },
+    {
+      "id": "a95",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Zeytinyağlı iç bakla",
+      "side": "dereotlu yoğurt ve ekmek"
+    },
+    {
+      "id": "a96",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Bakla dolması",
+      "side": "yoğurt ve domates salatası"
+    },
+    {
+      "id": "a97",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Nohutlu kabak yemeği",
+      "side": "pirinç pilavı ve cacık"
+    },
+    {
+      "id": "a98",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Mercimekli patlıcan yemeği",
+      "side": "bulgur pilavı ve yoğurt"
+    },
+    {
+      "id": "a99",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Fırında kuru fasulye köftesi",
+      "side": "yoğurtlu sos ve yeşil salata"
+    },
+    {
+      "id": "a100",
+      "category": "bakliyat",
+      "label": "Bakliyat",
+      "main": "Mercimekli börek",
+      "side": "ayran ve çoban salata"
+    },
+    {
+      "id": "b01",
+      "category": "et",
+      "label": "Et",
+      "main": "Hünkârbeğendi",
+      "side": "tereyağlı pirinç pilavı ve mevsim salatası"
+    },
+    {
+      "id": "b02",
+      "category": "et",
+      "label": "Et",
+      "main": "Tas kebabı",
+      "side": "bulgur pilavı ve cacık"
+    },
+    {
+      "id": "b03",
+      "category": "et",
+      "label": "Et",
+      "main": "Orman kebabı",
+      "side": "yoğurt ve yeşil salata"
+    },
+    {
+      "id": "b04",
+      "category": "et",
+      "label": "Et",
+      "main": "İslim kebabı",
+      "side": "pirinç pilavı ve çoban salata"
+    },
+    {
+      "id": "b05",
+      "category": "et",
+      "label": "Et",
+      "main": "Çökertme kebabı",
+      "side": "domatesli roka salatası"
+    },
+    {
+      "id": "b06",
+      "category": "et",
+      "label": "Et",
+      "main": "Kuzu tandır",
+      "side": "iç pilav ve sumaklı soğan"
+    },
+    {
+      "id": "b07",
+      "category": "et",
+      "label": "Et",
+      "main": "Kuzu incik",
+      "side": "patates püresi ve közlenmiş biber"
+    },
+    {
+      "id": "b08",
+      "category": "et",
+      "label": "Et",
+      "main": "Sac kavurma",
+      "side": "bulgur pilavı ve ayran"
+    },
+    {
+      "id": "b09",
+      "category": "et",
+      "label": "Et",
+      "main": "Et sote",
+      "side": "pirinç pilavı ve cacık"
+    },
+    {
+      "id": "b10",
+      "category": "et",
+      "label": "Et",
+      "main": "Alinazik kebabı",
+      "side": "tırnak pide ve sumaklı soğan"
+    },
+    {
+      "id": "b11",
+      "category": "et",
+      "label": "Et",
+      "main": "Dana rosto",
+      "side": "patates püresi ve fırın sebzeleri"
+    },
+    {
+      "id": "b12",
+      "category": "et",
+      "label": "Et",
+      "main": "Fırında kuzu kol",
+      "side": "bulgur pilavı ve çoban salata"
+    },
+    {
+      "id": "b13",
+      "category": "et",
+      "label": "Et",
+      "main": "Güveçte dana kaburga",
+      "side": "patates püresi ve yeşil salata"
+    },
+    {
+      "id": "b14",
+      "category": "et",
+      "label": "Et",
+      "main": "Kuzu haşlama",
+      "side": "limonlu yeşil salata ve yoğurt"
+    },
+    {
+      "id": "b15",
+      "category": "et",
+      "label": "Et",
+      "main": "İzmir köfte",
+      "side": "pirinç pilavı ve cacık"
+    },
+    {
+      "id": "b16",
+      "category": "et",
+      "label": "Et",
+      "main": "Kadınbudu köfte",
+      "side": "mevsim salatası ve ayran"
+    },
+    {
+      "id": "b17",
+      "category": "et",
+      "label": "Et",
+      "main": "Hasanpaşa köfte",
+      "side": "çoban salata ve yoğurt"
+    },
+    {
+      "id": "b18",
+      "category": "et",
+      "label": "Et",
+      "main": "Mantarlı biftek",
+      "side": "patates püresi ve sotelenmiş brokoli"
+    },
+    {
+      "id": "b19",
+      "category": "et",
+      "label": "Et",
+      "main": "Kuzu pirzola",
+      "side": "közlenmiş patlıcan ve domatesli roka salatası"
+    },
+    {
+      "id": "b20",
+      "category": "et",
+      "label": "Et",
+      "main": "Soğan kebabı",
+      "side": "lavaş ve nar ekşili yeşil salata"
+    },
+    {
+      "id": "b21",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Fırında levrek",
+      "side": "roka salatası ve fırın patates"
+    },
+    {
+      "id": "b22",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Hamsi tava",
+      "side": "mısır ekmeği ve sumaklı soğan salatası"
+    },
+    {
+      "id": "b23",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Palamut buğulama",
+      "side": "yeşil salata ve taze ekmek"
+    },
+    {
+      "id": "b24",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Çipura ızgara",
+      "side": "limonlu roka salatası ve közlenmiş biber"
+    },
+    {
+      "id": "b25",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Kâğıtta somon",
+      "side": "sebzeli bulgur pilavı ve salatalık salatası"
+    },
+    {
+      "id": "b26",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Deniz mahsullü güveç",
+      "side": "yeşil salata ve kızarmış ekmek"
+    },
+    {
+      "id": "b27",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Karides güveç",
+      "side": "roka salatası ve taze ekmek"
+    },
+    {
+      "id": "b28",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Kalamar tava",
+      "side": "tarator sos ve yeşil salata"
+    },
+    {
+      "id": "b29",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Midye dolma",
+      "side": "limon ve roka salatası"
+    },
+    {
+      "id": "b30",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Balık köftesi",
+      "side": "patates salatası ve yoğurtlu dereotu sosu"
+    },
+    {
+      "id": "b31",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Balık çorbası",
+      "side": "kızarmış ekmek ve roka salatası"
+    },
+    {
+      "id": "b32",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Uskumru dolması",
+      "side": "sumaklı soğan ve limonlu yeşil salata"
+    },
+    {
+      "id": "b33",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Hamsili pilav",
+      "side": "roka salatası ve turşu"
+    },
+    {
+      "id": "b34",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Sardalya sarma",
+      "side": "domatesli yeşil salata ve fırın patates"
+    },
+    {
+      "id": "b35",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Kalkan tava",
+      "side": "roka salatası ve limonlu soğan"
+    },
+    {
+      "id": "b36",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Mezgit şiş",
+      "side": "sebzeli bulgur pilavı ve yeşil salata"
+    },
+    {
+      "id": "b37",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Dil balığı sarma",
+      "side": "patates püresi ve buharda sebzeler"
+    },
+    {
+      "id": "b38",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Fener balığı kavurma",
+      "side": "pirinç pilavı ve çoban salata"
+    },
+    {
+      "id": "b39",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Ahtapot salatası",
+      "side": "kızarmış ekmek ve közlenmiş biber"
+    },
+    {
+      "id": "b40",
+      "category": "balik",
+      "label": "Balık",
+      "main": "Balıklı börek",
+      "side": "limonlu roka salatası"
+    },
+    {
+      "id": "b41",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Spagetti bolonez",
+      "side": "parmesan peyniri ve yeşil salata"
+    },
+    {
+      "id": "b42",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Fettuccine Alfredo",
+      "side": "roka salatası"
+    },
+    {
+      "id": "b43",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Kıymalı lazanya",
+      "side": "domatesli yeşil salata"
+    },
+    {
+      "id": "b44",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Mantarlı tagliatelle",
+      "side": "roka ve çeri domates salatası"
+    },
+    {
+      "id": "b45",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Peynirli ravioli",
+      "side": "fesleğenli domates salatası"
+    },
+    {
+      "id": "b46",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Arrabbiata soslu penne",
+      "side": "yeşil salata ve parmesan peyniri"
+    },
+    {
+      "id": "b47",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Deniz mahsullü linguine",
+      "side": "limonlu roka salatası"
+    },
+    {
+      "id": "b48",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Fırın makarna",
+      "side": "çoban salata"
+    },
+    {
+      "id": "b49",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Ispanaklı cannelloni",
+      "side": "domatesli yeşil salata"
+    },
+    {
+      "id": "b50",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Pesto soslu fusilli",
+      "side": "roka ve mozzarella salatası"
+    },
+    {
+      "id": "b51",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Spagetti aglio e olio",
+      "side": "limonlu yeşil salata"
+    },
+    {
+      "id": "b52",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Patlıcanlı rigatoni",
+      "side": "roka salatası ve parmesan peyniri"
+    },
+    {
+      "id": "b53",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Cevizli erişte",
+      "side": "yoğurt ve çoban salata"
+    },
+    {
+      "id": "b54",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Domates soslu gnocchi",
+      "side": "fesleğenli yeşil salata"
+    },
+    {
+      "id": "b55",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Limonlu karidesli orzo",
+      "side": "roka salatası"
+    },
+    {
+      "id": "b56",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Ton balıklı makarna",
+      "side": "salatalık ve domates salatası"
+    },
+    {
+      "id": "b57",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Kabaklı limonlu linguine",
+      "side": "roka salatası ve parmesan peyniri"
+    },
+    {
+      "id": "b58",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Peynirli mac and cheese",
+      "side": "salatalık ve domates salatası"
+    },
+    {
+      "id": "b59",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Spagetti puttanesca",
+      "side": "yeşil salata"
+    },
+    {
+      "id": "b60",
+      "category": "makarna",
+      "label": "Makarna",
+      "main": "Safranlı kremalı farfalle",
+      "side": "limonlu roka salatası"
+    },
+    {
+      "id": "b61",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Et döner dürüm",
+      "side": "ayran ve acı biber turşusu"
+    },
+    {
+      "id": "b62",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Cheeseburger",
+      "side": "patates kızartması ve turşu"
+    },
+    {
+      "id": "b63",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Lahmacun",
+      "side": "maydanoz, limon ve ayran"
+    },
+    {
+      "id": "b64",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Kıymalı pide",
+      "side": "çoban salata ve ayran"
+    },
+    {
+      "id": "b65",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Kokoreç",
+      "side": "acı biber turşusu ve ayran"
+    },
+    {
+      "id": "b66",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Kumru",
+      "side": "patates kızartması ve turşu"
+    },
+    {
+      "id": "b67",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Tantuni",
+      "side": "sumaklı soğan, limon ve ayran"
+    },
+    {
+      "id": "b68",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Çiğ köfte dürüm",
+      "side": "ayran ve limon"
+    },
+    {
+      "id": "b69",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Kumpir",
+      "side": "ayran ve yeşil salata"
+    },
+    {
+      "id": "b70",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Balık ekmek",
+      "side": "sumaklı soğan ve turşu"
+    },
+    {
+      "id": "b71",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Adana kebap dürüm",
+      "side": "közlenmiş biber ve ayran"
+    },
+    {
+      "id": "b72",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Köfte ekmek",
+      "side": "domates, soğan ve ayran"
+    },
+    {
+      "id": "b73",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Nohutlu pilav",
+      "side": "turşu ve ayran"
+    },
+    {
+      "id": "b74",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Ciğer dürüm",
+      "side": "sumaklı soğan ve ayran"
+    },
+    {
+      "id": "b75",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Karışık pizza",
+      "side": "yeşil salata"
+    },
+    {
+      "id": "b76",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Sosisli sandviç",
+      "side": "patates kızartması ve turşu"
+    },
+    {
+      "id": "b77",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Patso",
+      "side": "ayran ve turşu"
+    },
+    {
+      "id": "b78",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Ton balıklı sandviç",
+      "side": "yeşil salata ve limonlu maden suyu"
+    },
+    {
+      "id": "b79",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Sucuk ekmek",
+      "side": "közlenmiş biber ve ayran"
+    },
+    {
+      "id": "b80",
+      "category": "sokak",
+      "label": "Sokak lezzeti",
+      "main": "Peynirli sıkma",
+      "side": "domates, salatalık ve ayran"
+    },
+    {
+      "id": "b81",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Japon usulü suşi",
+      "side": "soya sosu, zencefil turşusu ve haşlanmış soya fasulyesi"
+    },
+    {
+      "id": "b82",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Kore usulü sebzeli pirinç kasesi (bibimbap)",
+      "side": "lahana turşusu (kimçi) ve salatalık salatası"
+    },
+    {
+      "id": "b83",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Tayland usulü pirinç eriştesi (pad thai)",
+      "side": "misket limonu ve salatalık salatası"
+    },
+    {
+      "id": "b84",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Meksika usulü soslu tortilla (enchilada)",
+      "side": "avokado ezmesi ve domates salsa"
+    },
+    {
+      "id": "b85",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Hint usulü ıspanaklı peynir yemeği (palak paneer)",
+      "side": "basmati pirinç pilavı ve yoğurtlu salatalık"
+    },
+    {
+      "id": "b86",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "İspanyol usulü paella",
+      "side": "limon ve yeşil salata"
+    },
+    {
+      "id": "b87",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Macar usulü gulaş",
+      "side": "patates püresi ve salatalık turşusu"
+    },
+    {
+      "id": "b88",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Gürcü usulü peynirli pide (haçapuri)",
+      "side": "domates ve salatalık salatası"
+    },
+    {
+      "id": "b89",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Yunan usulü musakka",
+      "side": "cacık ve yeşil salata"
+    },
+    {
+      "id": "b90",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "İran usulü cevizli ve nar soslu tavuk (fesenjan)",
+      "side": "safranlı pirinç pilavı ve salatalık salatası"
+    },
+    {
+      "id": "b91",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Fransız usulü dana yahni (burginyon)",
+      "side": "patates püresi ve yeşil salata"
+    },
+    {
+      "id": "b92",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "İsveç köftesi",
+      "side": "patates püresi ve kırmızı meyve reçeli"
+    },
+    {
+      "id": "b93",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Rus usulü mantarlı dana eti (stroganof)",
+      "side": "pirinç pilavı ve salatalık turşusu"
+    },
+    {
+      "id": "b94",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Fas usulü kuzu güveç (tajin)",
+      "side": "kuskus ve limonlu yeşil salata"
+    },
+    {
+      "id": "b95",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Çin usulü fıstıklı tavuk (kung pao)",
+      "side": "pirinç pilavı ve salatalık salatası"
+    },
+    {
+      "id": "b96",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Endonezya usulü kızarmış pilav (nasi goreng)",
+      "side": "salatalık dilimleri ve karides krakeri"
+    },
+    {
+      "id": "b97",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Vietnam usulü etli erişte çorbası (pho)",
+      "side": "taze fesleğen, misket limonu dilimleri ve fasulye filizi"
+    },
+    {
+      "id": "b98",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Brezilya usulü etli siyah fasulye (feijoada)",
+      "side": "pirinç pilavı ve portakal dilimleri"
+    },
+    {
+      "id": "b99",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Polonya usulü patatesli mantı (pierogi)",
+      "side": "ekşi krema ve salatalık salatası"
+    },
+    {
+      "id": "b100",
+      "category": "dunya",
+      "label": "Dünya mutfağı",
+      "main": "Arjantin usulü içli börek (empanada)",
+      "side": "maydanozlu chimichurri sos ve yeşil salata"
+    }
+  ]
+}

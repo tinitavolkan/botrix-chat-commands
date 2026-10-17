@@ -1,0 +1,1444 @@
+{
+  "CAFE_ORDERS": [
+    {
+      "drink": "Türk kahvesi",
+      "side": "iki lokum",
+      "emoji": "☕",
+      "text": "Falı okumayı bilen kimse bulunmuyor; yine de herkes aşk hayatı hakkında bir yorum yapıyor."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir dilim mozaik pasta",
+      "emoji": "☕",
+      "text": "Fincan ters çevrildi, herkes aynı şekle bakıp bambaşka bir aşk hikâyesi anlatıyor."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir avuç leblebi",
+      "emoji": "☕",
+      "text": "Kahve bitmeden arkadaşının kısa hikâyesi başlıyor; anlattığı kişiler çoğaldıkça sohbet de uzuyor."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir parça bitter çikolata",
+      "emoji": "☕",
+      "text": "Kahvenizi içerken masadaki en ciddi kişi gülmeye başlıyor; onun kahkahasıyla bütün grup neşeleniyor."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir dilim havuçlu kek",
+      "emoji": "☕",
+      "text": "Kahve gelir gelmez sohbet başlıyor; masadaki herkes başkasının ilişkisi hakkında fikrini söylüyor."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir parça brownie",
+      "emoji": "☕",
+      "text": "Brownie paylaşılacaktı, son lokma için herkes aynı anda 'sen ye' dedi."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir yulaflı kurabiye",
+      "emoji": "☕",
+      "text": "Kahve büyük kupada geliyor; kısa bir sohbet için oturan arkadaşların ilk konuyu bile bitiremiyor."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir dilim muzlu kek",
+      "emoji": "☕",
+      "text": "Herkes kendi işiyle ilgileniyor; yan masada tanıdık bir isim duyulunca bütün arkadaşların konuşmayı dinlemeye başlıyor."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir kruvasan",
+      "emoji": "☕",
+      "text": "Sütün üstüne kalp çizildi, masadaki biri hemen bu şeklin kime yapıldığını sordu."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir dilim cheesecake",
+      "emoji": "☕",
+      "text": "Arkadaşın tatlının fotoğrafını çekmek istiyor; fotoğraf çekilene kadar kimsenin çatalını tabağa yaklaştırmasına izin vermiyor."
+    },
+    {
+      "drink": "Latte",
+      "side": "iki bademli kurabiye",
+      "emoji": "☕",
+      "text": "Kurabiyeler eşit paylaşıldı, anlatılacak konu gelince söz hakkı pek eşit kalmadı."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir çikolatalı muffin",
+      "emoji": "☕",
+      "text": "Kahvenin köpüğüne bakarken anlatılanları kaçırıyorsun; arkadaşından son cümleyi tekrar etmesini istiyorsun."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir tarçınlı çörek",
+      "emoji": "☕",
+      "text": "Tatlı yemediğini söyleyen arkadaşın çörekten ilk lokmayı alıyor; fotoğrafını çekmek için tatlıyı tabağına geri koymasını istiyorsun."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "iki biscotti",
+      "emoji": "☕",
+      "text": "Biscotti'yi kahveye batırırken arkadaşın söze giriyor; önceki soruya cevap verilmeden yeni sorular sormaya başlıyor."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir sade kurabiye",
+      "emoji": "☕",
+      "text": "Dudağında kalan kahve köpüğünü arkadaşın fark ediyor; ciddi hikâyene devam edemeden bütün masa gülmeye başlıyor."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir mini tiramisu",
+      "emoji": "☕",
+      "text": "Tiramisu küçük geliyor; tek porsiyonu paylaşmak isteyen arkadaşların kendi tatlılarını da sipariş ediyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir parça bitter çikolata",
+      "emoji": "☕",
+      "text": "Espressonu iki yudumda bitiriyorsun; kısa konuşacağını söyleyen arkadaşın hâlâ ilk cümlesini açıklıyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "iki fındıklı kurabiye",
+      "emoji": "☕",
+      "text": "Kahveni bitirirken sorunun cevabını bekliyorsun; arkadaşın konuyu değiştirdikçe aynı soruyu tekrar soruyorsun."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir mini brownie",
+      "emoji": "☕",
+      "text": "Küçük tatlıyı paylaşmak için ortaya koyuyorsun; herkes çatalını uzatınca kişi başına yalnızca bir lokma düşüyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir küçük makaron",
+      "emoji": "☕",
+      "text": "Makaronu tek lokmada yiyen, 'Ben sadece tadına bakacaktım' diye kendini savunuyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "iki marshmallow",
+      "emoji": "🍫",
+      "text": "Marshmallowları paylaştırmaya çalışıyorsun; masaya yeni gelen arkadaşın kendisine de ayırıp ayırmadığını soruyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "bir sade kruvasan",
+      "emoji": "🍫",
+      "text": "Sıcak çikolatayı içmek için bekliyorsun; bir yandan üfleyip bir yandan konuşunca arkadaşların cümleni anlayamıyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "iki tereyağlı kurabiye",
+      "emoji": "🍫",
+      "text": "Kurabiyeyi çikolataya batırıyorsun; arkadaşın aynı kurabiyeyi sade yemenin daha güzel olduğunu uzun uzun savunuyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "bir avuç çilek",
+      "emoji": "🍫",
+      "text": "Fotoğraf çekilmeden çilekleri yemeye başlıyorsun; arkadaşın telefonu hazırladığında tabakta tek bir çilek kalıyor."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir küçük simit",
+      "emoji": "🍵",
+      "text": "Simit bölüşüldü, sohbetin en önemli yerinde herkes aynı anda susamları topladı."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "iki dilim peynir",
+      "emoji": "🍵",
+      "text": "Çayını içerken sohbete dalıyorsun; konu uzayınca başlangıçta sorulan soruyu hep birlikte unutuyorsunuz."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir dilim ev keki",
+      "emoji": "🍵",
+      "text": "Ev kekinin tarifini merak ediyorsun; arkadaşın ölçüleri bilmediği hâlde nasıl yapılacağını anlatmaya çalışıyor."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "iki tuzlu kurabiye",
+      "emoji": "🍵",
+      "text": "Çay yeniden doldurulunca aynı konu açılıyor; daha önce konuşulduğunu söyleyen arkadaşın en uzun açıklamayı yapıyor."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir ballı kurabiye",
+      "emoji": "🌼",
+      "text": "Sakin olduğunu söylüyorsun; peş peşe üç mesaj yazınca arkadaşın dinlenmek için çayını içmeni öneriyor."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir dilim limonlu kek",
+      "emoji": "🌼",
+      "text": "Yan masa duymasın diye sesini kısıyorsun; anlattıklarını merak eden arkadaşların sana biraz daha yaklaşıyor."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir avuç badem",
+      "emoji": "🌼",
+      "text": "Herkes sessizce oturuyor; kimlerin buluştuğunu anlatmaya başlayınca arkadaşların seni dikkatle dinliyor."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir küçük yulaflı bar",
+      "emoji": "🌼",
+      "text": "Çayını yudumlarken mesajını tekrar okuyorsun; gönder tuşuna basmadan önce son cümleyi bir kez daha değiştiriyorsun."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "iki cevizli kurabiye",
+      "emoji": "🍵",
+      "text": "Çayın rengini beğeniyorsun; arkadaşların kendi ailelerinin çayı nasıl demlediğini sırayla anlatmaya başlıyor."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir dilim elmalı kek",
+      "emoji": "🍵",
+      "text": "Kekin eşit bölünmesini istiyorsun; arkadaşların en büyük dilimi seçmek için tabağı dikkatle inceliyor."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir avuç kuru kayısı",
+      "emoji": "🍵",
+      "text": "İkramın adı soruldu, yanındaki kişi tadına bakarken cevaptan önce kendi tahminini verdi."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir küçük tahinli çörek",
+      "emoji": "🍵",
+      "text": "Çöreğin son parçası ortada kaldı, herkes karşısındakine ikram ederek biraz daha sohbet etti."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir mini sandviç",
+      "emoji": "🍋",
+      "text": "Limonatanın ekşiliğini tartışırken sandviçini bitiriyorsun; arkadaşın yorum yapmadan önce içeceğin tadına bakmanı öneriyor."
+    },
+    {
+      "drink": "Limonata",
+      "side": "iki limonlu kurabiye",
+      "emoji": "🍋",
+      "text": "Limonatanın yanına limonlu kurabiye de alıyorsun; arkadaşın masada limonsuz bir şey kalıp kalmadığını soruyor."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir dilim sade kek",
+      "emoji": "🍋",
+      "text": "Bardağındaki buzları karıştırıyorsun; çıkan ses yüzünden arkadaşın hikâyenin önemli cümlesini tekrar etmek zorunda kalıyor."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir avuç çilek",
+      "emoji": "🍋",
+      "text": "Çilekler paylaşılırken herkes en kırmızısını tarif etti, tabaktaki sonuncu oylamaya kaldı."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir küçük tost",
+      "emoji": "🥤",
+      "text": "Sodanı açarken arkadaşının ilk cümlesini duyamıyorsun; hikâyeyi baştan anlatmasını istiyorsun."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir avuç tuzlu badem",
+      "emoji": "🥤",
+      "text": "Sodanı içerken tanıdık bir isim duyuyorsun; yan masadaki konuşmanın devamını merak edip arkadaşını dinlemeye çağırıyorsun."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir küçük poğaça",
+      "emoji": "🥤",
+      "text": "Poğaçayı kimin sipariş ettiğini soruyorsun; kimse hatırlamayınca arkadaşların hep birlikte paylaşmayı öneriyor."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir mini peynirli sandviç",
+      "emoji": "🥤",
+      "text": "Sandviçini yerken uzun bir hikâye dinliyorsun; son lokmada bile anlatılan kişilerin kim olduğunu sormaya devam ediyorsun."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir dilim brownie",
+      "emoji": "🧊",
+      "text": "Buzlar erimeden kahvenin fotoğrafını çekmek istiyorsun; arkadaşın kadraja elini sokunca çekimi tekrarlıyorsun."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir vanilyalı kurabiye",
+      "emoji": "🧊",
+      "text": "Kahveyi karıştırırken 'dinliyorum' dedin, şimdi olayın başrolünün kim olduğunu soruyorsun."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir küçük cheesecake",
+      "emoji": "🧊",
+      "text": "Cheesecake'in ilk lokmasını almak istiyorsun; arkadaşların tatlıyı paylaşma planını duyunca tabağı ortaya koyuyorsun."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir çikolatalı kruvasan",
+      "emoji": "🧊",
+      "text": "Kruvasan kırıntıları masaya yayıldı, 'çok temiz yedim' diyen kişi peçeteye biraz daha uzandı."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "iki cevizli kurabiye",
+      "emoji": "☕",
+      "text": "Arkadaşın kahveye düşen kurabiyeni kaşıkla çıkarıyor; bir sonraki lokmayı tabakta yemeni öneriyor."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir mini baklava",
+      "emoji": "☕",
+      "text": "Baklava tek kişilik geldi, masadaki herkes yalnızca tadına bakacağını söylüyor."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir hurma",
+      "emoji": "☕",
+      "text": "Hurmayı ikiye bölüp ikram ettin, arkadaş büyük yarıyı seçerken arkadaşlığınızı hatırlattı."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir dilim tahinli kek",
+      "emoji": "☕",
+      "text": "Tahinli kekin tarifini sır gibi saklıyorsun; övgüleri duyunca bütün malzemeleri tek tek anlatmaya başlıyorsun."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "iki badem ezmesi",
+      "emoji": "☕",
+      "text": "Badem ezmesinin birini sonraya saklıyorsun; arkadaşın boş tabağı görünce diğerinin nereye gittiğini soruyor."
+    },
+    {
+      "drink": "Türk kahvesi",
+      "side": "bir mini sütlaç",
+      "emoji": "☕",
+      "text": "Arkadaşın falında uzun bir yol gördüğünü söylüyor; yolculuk planı yapmadan önce sütlacını bitirmek istediğini belirtiyorsun."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir dilim limonlu cheesecake",
+      "emoji": "☕",
+      "text": "Cheesecake'in son lokması kaldı, arkadaşın konuşurken çatalı o tarafa biraz fazla yaklaşıyor."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "iki portakallı biscotti",
+      "emoji": "☕",
+      "text": "Biscotti'yi kahveye fazla batırdın, arkadaşın sohbeti kesip tatlı için kurtarma operasyonu başlattı."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir mini fındıklı muffin",
+      "emoji": "☕",
+      "text": "Muffini küçük diye seçtin, yan masanın tatlısını görünce porsiyon kararını yeniden değerlendirdin."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir tarçınlı çörek",
+      "emoji": "☕",
+      "text": "Çöreği açarken kırıntılar yayıldı, temiz yediğini söyleyince masadaki herkes peçeteye baktı."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "bir mini kaşarlı tost",
+      "emoji": "☕",
+      "text": "Tost gelir gelmez sohbeti bıraktın, arkadaşın anlatacağı dedikoduyu iki lokma sonrasına erteledi."
+    },
+    {
+      "drink": "Filtre kahve",
+      "side": "iki çikolata parçalı kurabiye",
+      "emoji": "☕",
+      "text": "Kurabiyenin çikolatalı tarafını kendine çeviriyorsun; eşit paylaştığını söylesen de arkadaşın iki parçayı yan yana gösteriyor."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir dilim havuçlu kek",
+      "emoji": "☕",
+      "text": "Havuçlu keki sağlıklı seçenek diye anlattın, ikinci dilimi isterken konu değiştirdin."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir mini elmalı turta",
+      "emoji": "☕",
+      "text": "Turta sıcakken acele lokma aldın, arkadaşın anlatacağı sırdan önce ağzın yandı."
+    },
+    {
+      "drink": "Latte",
+      "side": "iki fındıklı makaron",
+      "emoji": "☕",
+      "text": "Makaronları fotoğraf için diziyorsun; arkadaşın birini yiyince tabaktaki boşluğu gizlemeye çalışıyorsun."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir mini limonlu tart",
+      "emoji": "☕",
+      "text": "Tartın ekşiliği yüzüne yansıyor; beğendiğini söylesen de arkadaşın yüz ifadenin fotoğrafını çekiyor."
+    },
+    {
+      "drink": "Latte",
+      "side": "bir küçük peynirli sandviç",
+      "emoji": "☕",
+      "text": "Sandviçin yarısını ayırdın, arkadaşın sana teşekkür edip hangi yarının kendisine ait olduğunu sormadı."
+    },
+    {
+      "drink": "Latte",
+      "side": "iki zencefilli bisküvi",
+      "emoji": "☕",
+      "text": "Bisküviyi latteye batırıyorsun; arkadaşın çay içerken de aynı şeyi yaptığını hatırlatıp sana gülüyor."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir mini karamelli muffin",
+      "emoji": "☕",
+      "text": "Muffinin karameli dudağında kaldı, ciddi görünmeye çalıştıkça masadakiler daha çok güldü."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "iki fındıklı kurabiye",
+      "emoji": "☕",
+      "text": "Kurabiyelerden büyük olanı seçtin, arkadaşın boy farkını ölçmek için telefonunu çıkardı."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir dilim mozaik pasta",
+      "emoji": "☕",
+      "text": "Mozaik pastadaki bisküvileri tek tek ayırıyorsun; arkadaşın bunu nasıl yediğini merak edip seni izliyor."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir mini muzlu waffle",
+      "emoji": "☕",
+      "text": "Arkadaşların waffle'a çatal uzatıyor; fotoğrafını henüz çekmediğini söyleyince hepsi lokmalarını almadan duruyor."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir mini meyveli tart",
+      "emoji": "☕",
+      "text": "Tartın meyvelerini sona sakladın, arkadaşın onları sevmediğini sanıp yardım etmeye kalktı."
+    },
+    {
+      "drink": "Cappuccino",
+      "side": "bir dilim vanilyalı cheesecake",
+      "emoji": "☕",
+      "text": "Cheesecake'e iki çatal geldi, sen tek kişilik sipariş ettiğini masaya resmen duyurdun."
+    },
+    {
+      "drink": "Espresso",
+      "side": "iki kahveli çikolata",
+      "emoji": "☕",
+      "text": "Kahveni ve kahveli çikolatanı hızla bitiriyorsun; peş peşe konuşmaya başlayınca arkadaşın söz alacak bir aralık arıyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir mini limonlu tart",
+      "emoji": "☕",
+      "text": "Espresso bitiyor ama tartın hâlâ tabakta duruyor; arkadaşın tatlının yanına bir kahve daha söylemeni öneriyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir mini bademli çörek",
+      "emoji": "☕",
+      "text": "Arkadaşın çöreğin içini görmek için bir lokma istiyor; tadını beğenip yemeye devam edince tabağında yarısı kalıyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir yulaflı bisküvi",
+      "emoji": "☕",
+      "text": "Bisküvi küçük fincana sığmıyor; kenarını kırarak batırmaya çalışınca arkadaşın daha büyük bir fincan istemeni öneriyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir dilim portakallı kek",
+      "emoji": "☕",
+      "text": "Kekinin kokusunu alan yan masadaki kişi tarifini soruyor; hazır aldığını söyleyince bu kez pastanenin adını öğrenmek istiyor."
+    },
+    {
+      "drink": "Espresso",
+      "side": "bir küçük peynirli kraker tabağı",
+      "emoji": "☕",
+      "text": "Krakerleri sayarken arkadaşın birini yedi, sohbetin gündemi anında eksik ikrama döndü."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "bir mini sade waffle",
+      "emoji": "🍫",
+      "text": "Waffle'a çikolata dökerken masa örtüsüne de damlatıyorsun; arkadaşın tatlıdan önce peçeteyi sana uzatıyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "iki zencefilli bisküvi",
+      "emoji": "🍫",
+      "text": "Bisküviyi arkadaşına uzatıyorsun; içindeki baharatı tahmin etmeye çalışınca doğru cevabı öğrenmek için paketi çeviriyorsun."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "bir mini karamelli donut",
+      "emoji": "🍫",
+      "text": "Donutun ortası boş olduğu için az tatlı yediğini savunuyorsun; sohbetteki arkadaşların bu hesabına gülüyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "bir dilim muzlu kek",
+      "emoji": "🍫",
+      "text": "Muzlu keki sıcak çikolatanın yanına koyuyorsun; muz sayesinde sağlıklı bir seçim yaptığını söyleyince arkadaşın gülüyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "bir mini peynirli açma",
+      "emoji": "🍫",
+      "text": "Tatlı içeceğin yanına tuzlu açma alıyorsun; arkadaşların hangi tadı daha çok sevdiğini sormak için sıraya giriyor."
+    },
+    {
+      "drink": "Sıcak çikolata",
+      "side": "iki fındıklı biscotti",
+      "emoji": "🍫",
+      "text": "Biscotti bardağın içine düşüyor; arkadaşın anlatacağı yeni dedikoduya ara verip sana kaşık getiriyor."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir mini peynirli börek",
+      "emoji": "🍵",
+      "text": "Böreğin çıtır köşesini seçtin, arkadaşın bütün gün sessiz kalıp ilk itirazını o lokmaya yaptı."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir mini kaşarlı tost",
+      "emoji": "🍵",
+      "text": "Tostun peyniri uzarken arkadaşın soru sordu, cevap yerine başını sallayarak durumu idare ettin."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir küçük tahinli çörek",
+      "emoji": "🍵",
+      "text": "Çöreğin son lokmasını başkasına ayırdın, kimse uzanmayınca nezaket süresinin dolduğunu açıkladın."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir dilim portakallı kek",
+      "emoji": "🍵",
+      "text": "Portakallı kekin son dilimini küçücük diye alıyorsun, arkadaşın çatalıyla gerçek boyutunu ölçüyor."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "iki zeytinli kurabiye",
+      "emoji": "🍵",
+      "text": "Kurabiyede zeytin görünce kahvaltı konusu açıldı, masada kimsenin erken kalkmadığı ortaya çıktı."
+    },
+    {
+      "drink": "Siyah çay",
+      "side": "bir mini çikolatalı açma",
+      "emoji": "🍵",
+      "text": "Açmanın çikolatası peçeteye bulaştı, arkadaşın tatlıyı bitirdiğini önce peçeteden öğrendi."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir mini elmalı tart",
+      "emoji": "🌼",
+      "text": "Çayını sakin sakin içmek istiyorsun; son lokmana uzanan arkadaşını görünce hemen itiraz ediyorsun."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "iki vanilyalı bisküvi",
+      "emoji": "🌼",
+      "text": "Bisküvilerden birini arkadaşına ikram ediyorsun; büyük olanı isteyince elindeki parçayla karşılaştırıyorsun."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "iki hurma",
+      "emoji": "🌼",
+      "text": "Hurmaları sonra yemek için ayırdın, arkadaşın boş çay tabağını görünce ikramın izini sürmeye başladı."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir dilim yoğurtlu kek",
+      "emoji": "🌼",
+      "text": "Yoğurtlu kekin tarifinin kolay olduğunu söylüyorsun; arkadaşın bir sonraki buluşmada keki senin hazırlamanı istiyor."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir küçük cevizli çörek",
+      "emoji": "🌼",
+      "text": "Çöreğini bitirene kadar konuşmamaya karar veriyorsun; yeni bir isim duyunca yemeye ara verip hemen soru soruyorsun."
+    },
+    {
+      "drink": "Papatya çayı",
+      "side": "bir mini peynirli poğaça",
+      "emoji": "🌼",
+      "text": "Poğaça gelince arkadaşların konuşmayı bırakıp yemeye başlıyor; neden sessizleştiklerini sorunca aç olduklarını söylüyorlar."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir dilim havuçlu kek",
+      "emoji": "🍵",
+      "text": "Kekte havuç olduğu için sebze yediğini söylüyorsun; arkadaşın üstündeki kremayı da hesaba katmanı istiyor."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "iki tarçınlı kurabiye",
+      "emoji": "🍵",
+      "text": "Kurabiyenin kokusu dikkatini dağıtıyor; arkadaşının anlattığı olayı bırakıp kurabiyenin nasıl yapıldığını soruyorsun."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir mini peynirli börek",
+      "emoji": "🍵",
+      "text": "Böreği ikiye ayırıyorsun; arkadaşın küçük parçayı görünce eşit paylaşmak için yeniden bölmeni istiyor."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir avuç kuru üzüm",
+      "emoji": "🍵",
+      "text": "Üzümleri sayarak yiyorsun; arkadaşının hikâyesine dalınca kaç tane yediğini unutup kalanları yeniden sayıyorsun."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "iki fındıklı bisküvi",
+      "emoji": "🍵",
+      "text": "Bisküviyi sessizce yemeye çalışıyorsun; ilk çıtırtıda yan masadaki kişiler sana bakınca başını kaldırıp gülümsüyorsun."
+    },
+    {
+      "drink": "Kuşburnu çayı",
+      "side": "bir mini vişneli tart",
+      "emoji": "🍵",
+      "text": "Tart ekşi diye bir lokma bırakmıştın, arkadaşın beğenince fikrini değiştirip çatalı geri aldın."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir mini beyaz çikolatalı cheesecake",
+      "emoji": "🍋",
+      "text": "Cheesecake'i paylaşacağını söylüyorsun; arkadaşın büyük bir lokma alınca ona eşit paylaşmak istediğini hatırlatıyorsun."
+    },
+    {
+      "drink": "Limonata",
+      "side": "iki susamlı kraker",
+      "emoji": "🍋",
+      "text": "Konuşurken krakeri ısırıyorsun; çıtırtıdan son kelimeni duyamayan arkadaşın cümleni tekrar etmeni istiyor."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir küçük peynirli poğaça",
+      "emoji": "🍋",
+      "text": "Poğaçanın içini arkadaşına gösteriyorsun; bunu ikram sandığında önce fotoğrafını çekmek istediğini söylüyorsun."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir mini muzlu muffin",
+      "emoji": "🍋",
+      "text": "Muffinin fotoğrafını çekiyorsun; arkadaşın fotoğrafı beğenmekle yetinmeyip tatlıdan da bir lokma istiyor."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir avuç ceviz",
+      "emoji": "🍋",
+      "text": "Cevizleri masanın ortasına bırakıyorsun; sohbet bitince arkadaşının bütün cevizleri yediğini fark ediyorsun."
+    },
+    {
+      "drink": "Limonata",
+      "side": "bir mini çikolatalı donut",
+      "emoji": "🍋",
+      "text": "Donutun son lokmasını arkadaşına vereceğini söylüyorsun; arkadaşın hikâyeyi kısa kesip hemen lokmasını alıyor."
+    },
+    {
+      "drink": "Soda",
+      "side": "iki galeta",
+      "emoji": "🥤",
+      "text": "Galetayı kırınca çıkan ses konuşmayı kesiyor; arkadaşların söz almak için bu kadar gürültüye gerek olmadığını söylüyor."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir mini patatesli börek",
+      "emoji": "🥤",
+      "text": "Böreğin tadını konuşuyorsunuz; arkadaşın annesinin tarifine benzediğini söyleyip övgüleri onun adına kabul ediyor."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir avuç leblebi",
+      "emoji": "🥤",
+      "text": "Leblebiyi avuçla yemeye başladın, arkadaşının yeni sorusuna cevap verebilmek için küçük bir mola istedin."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir dilim limonlu kek",
+      "emoji": "🥤",
+      "text": "Limonlu keki ekşiliğinden etkilenmeden yiyeceğini söylüyorsun; ilk lokmada yüzünü buruşturunca arkadaşın gülüyor."
+    },
+    {
+      "drink": "Soda",
+      "side": "iki susamlı kurabiye",
+      "emoji": "🥤",
+      "text": "Kurabiyenin susamları masaya dökülüyor; arkadaşın peçeteyi uzatırken nereden başlaman gerektiğini de gösteriyor."
+    },
+    {
+      "drink": "Soda",
+      "side": "bir küçük zeytinli kraker tabağı",
+      "emoji": "🥤",
+      "text": "Arkadaşın zeytinli krakerleri sana uzattı, sevmediğini söylemeden paylaşmanın güzelliğini anlattı."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir mini fıstıklı makaron",
+      "emoji": "🧊",
+      "text": "Makaronun fotoğrafını çekmeye çalışıyorsun; kahvenin buzları erirken arkadaşın fotoğrafları ne zaman bitireceğini soruyor."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir dilim mermer kek",
+      "emoji": "🧊",
+      "text": "Kekin deseninde bir kalp gördüğünü söylüyorsun; arkadaşın hangi şekle baksan beklediğin mesajı hatırladığını söylüyor."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "iki portakallı bisküvi",
+      "emoji": "🧊",
+      "text": "Bisküviyi buzlu kahveye batırdın, arkadaşın çıkması zor olursa kaşıkla yardım edeceğini söyledi."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir mini sade ekler",
+      "emoji": "🧊",
+      "text": "Ekleri tek lokmada yedin, arkadaşın paylaşım teklifini yapabilmek için biraz daha yavaş olmanı istedi."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir mini bademli çörek",
+      "emoji": "🧊",
+      "text": "Çöreği kahvenin üzerinde tutup fotoğraf çekiyorsun; bademler kahveye düşünce fotoğraf yerine kaşık aramaya başlıyorsun."
+    },
+    {
+      "drink": "Soğuk kahve",
+      "side": "bir avuç fındık",
+      "emoji": "🧊",
+      "text": "Fındık tabağına her uzandığında arkadaşın yeni bir ayrıntı verdi, ikram bitti ama hikâye bitmedi."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir tereyağlı kruvasan",
+      "emoji": "☕",
+      "text": "Kruvasanının kırıntıları klavyeye dökülüyor; boşluk tuşunu temizlerken sohbetin en komik kısmını kaçırıyorsun."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir dilim vanilyalı cheesecake",
+      "emoji": "☕",
+      "text": "Cheesecake'inin önce tabanını yiyip kremasını sona bırakıyorsun; yanındakiler tatlıyı ters sırayla bitirmene gülüyor."
+    },
+    {
+      "drink": "Flat white",
+      "side": "iki bademli kurabiye",
+      "emoji": "☕",
+      "text": "Kurabiyenin tarifini sorduklarında 'göz kararı' diyorsun; yanındakiler pastane poşetini gösterince gülerek konuyu değiştiriyorsun."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir mini brownie",
+      "emoji": "☕",
+      "text": "Brownie'ni yedikten sonra telefona dokunuyorsun; ekrandaki çikolata izlerini görünce peçete aramaya başlıyorsun."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir dilim limonlu kek",
+      "emoji": "☕",
+      "text": "Limonlu kekin ekşi olmasından korkuyorsun; ilk lokmadan sonra beğenince nasıl yapıldığını garsona soruyorsun."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir fıstıklı makaron",
+      "emoji": "☕",
+      "text": "Makaronun rengini kıyafetine yakıştırıyorsun; arkadaşın tatlıyı yemeden sana kombin önerisi veriyor."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir küçük peynirli poğaça",
+      "emoji": "☕",
+      "text": "Poğaçanın peynirini beğenip bir tane daha sipariş ediyorsun; kahvaltını evde yaptığını söylemeyi de ihmal etmiyorsun."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir mini elmalı tart",
+      "emoji": "☕",
+      "text": "Elmalı tart gelince annenin tarifini anlatmaya başlıyorsun; arkadaşların kendi tariflerini ekleyince sohbetiniz uzayıp gidiyor."
+    },
+    {
+      "drink": "Flat white",
+      "side": "iki yulaflı kurabiye",
+      "emoji": "☕",
+      "text": "Yulaflı kurabiyeyi sağlıklı diye seçiyorsun; kahvene kaç şeker attığını soran arkadaşına yanıt vermiyorsun."
+    },
+    {
+      "drink": "Flat white",
+      "side": "bir mini çikolatalı muffin",
+      "emoji": "☕",
+      "text": "Muffinin kâğıdında kalan çikolatayı kaşıkla topluyorsun; tatlının bittiğini söyleyen arkadaşına son lokmanı gösteriyorsun."
+    },
+    {
+      "drink": "Americano",
+      "side": "iki biscotti",
+      "emoji": "☕",
+      "text": "Biscotti'ni kahveye batırıyorsun; sohbete dalınca fincanda dağılan parçaları kaşıkla toplamak zorunda kalıyorsun."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir dilim havuçlu kek",
+      "emoji": "☕",
+      "text": "Havuçlu keki sebze porsiyonu sayıyorsun; arkadaşlarına beslenme hesabını kendi yöntemine göre anlatıyorsun."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir mini peynirli sandviç",
+      "emoji": "☕",
+      "text": "Sandviçi küçük diye seçip bir tane daha istiyorsun; yanındakiler kahve molanın öğle yemeğine döndüğünü söylüyor."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir portakallı kurabiye",
+      "emoji": "☕",
+      "text": "Portakal kokusunu duyan biri yan masadan gelip tarif soruyor; yanıtını dinlerken sohbetine de katılıyor."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir parça bitter çikolata",
+      "emoji": "☕",
+      "text": "Çikolatanın kakao oranını soruyorsun; arkadaşların konuyu ilişkideki uyum yüzdesine getirince kahve molan biraz uzuyor."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir dilim muzlu kek",
+      "emoji": "☕",
+      "text": "Muzlu keki hazırlayana edilen iltifatları üstüne alıyorsun; siparişi senin verdiğini arkadaşlarına hatırlatıyorsun."
+    },
+    {
+      "drink": "Americano",
+      "side": "iki cevizli kurabiye",
+      "emoji": "☕",
+      "text": "Kurabiyenden bir parçayı çantana ayırıyorsun; arkadaşların sorunca onu yemek için değil hatıra olarak sakladığını söylüyorsun."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir mini tiramisu",
+      "emoji": "☕",
+      "text": "Tiramisunun üzerindeki kakaoya üfleyince tozlar havaya kalkıyor; arkadaşların gülmeye başlayınca ciddi konuşmana ara veriyorsun."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir küçük tuzlu çörek",
+      "emoji": "☕",
+      "text": "Çörekotu dişine takılınca konuşmanı yarıda kesiyorsun; peçete ararken arkadaşların hikâyenin devamını bekliyor."
+    },
+    {
+      "drink": "Americano",
+      "side": "bir sade muffin",
+      "emoji": "☕",
+      "text": "Sade muffinin için herkes başka bir sos öneriyor; sonunda ilk seçimine dönüp hiçbirini eklemiyorsun."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir mini profiterol",
+      "emoji": "🍫",
+      "text": "Profiterolün sosunu kaşıkla alırken masa örtüsüne damlatıyorsun; yanındakiler peçete uzatırken ilk lokmanı hâlâ alamıyorsun."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir çilekli tart",
+      "emoji": "🍫",
+      "text": "Tartının çileklerini önce kendin yiyorsun; kalanını paylaşmayı önerince arkadaşların tabağın boş yerlerini gösteriyor."
+    },
+    {
+      "drink": "Mocha",
+      "side": "iki fındıklı kurabiye",
+      "emoji": "🍫",
+      "text": "Kurabiyendeki fındıkları sayıyorsun; arkadaşın tadını sorunca henüz bir lokma almadığını söylüyorsun."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir mini ekler",
+      "emoji": "🍫",
+      "text": "Ekleri ikiye bölmek isterken kremasını tabağa döküyorsun; paylaşacağın arkadaşına daha düzgün görünen yarıyı uzatıyorsun."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir dilim frambuazlı cheesecake",
+      "emoji": "🍫",
+      "text": "Frambuaz sosuyla tabağına harf çiziyorsun; arkadaşların harfin kimi temsil ettiğini araştırmaya başlıyor."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir küçük hindistan cevizli top",
+      "emoji": "🍫",
+      "text": "Hindistan cevizi dudağına yapışıyor; ciddi konuşmana devam ederken arkadaşların peçeteyi işaret ediyor."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir muzlu mini waffle",
+      "emoji": "🍫",
+      "text": "Waffle'ın hangi köşesinden başlayacağını soruyorsun; sohbetteki arkadaşların bir oyun haritası anlatır gibi kareleri tek tek tarif ediyor."
+    },
+    {
+      "drink": "Mocha",
+      "side": "iki zencefilli kurabiye",
+      "emoji": "🍫",
+      "text": "Zencefilli kurabiyeyi koklayıp baharatı tahmin etmeye çalışıyorsun; en emin konuşan arkadaşın tarçın olduğunu söylüyor."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir dilim mozaik pasta",
+      "emoji": "🍫",
+      "text": "Mozaik pastadaki bisküvileri ayırıp tarifin sırrını bulduğunu söylüyorsun; arkadaşların aynı bisküviyi kendi dilimlerinde gösteriyor."
+    },
+    {
+      "drink": "Mocha",
+      "side": "bir mini kakaolu çörek",
+      "emoji": "🍫",
+      "text": "Kakaolu çöreğin pudra şekeri ceketine dökülüyor; masaya dönünce arkadaşların ne yediğini sormadan anlıyor."
+    },
+    {
+      "drink": "Cortado",
+      "side": "iki tereyağlı kurabiye",
+      "emoji": "☕",
+      "text": "Kırılan kurabiyenin parçalarını birleştirip fotoğrafını çekmek istiyorsun; arkadaşın son parçayı yiyince eksik kısmı gizleyemiyorsun."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir mini bademli kruvasan",
+      "emoji": "☕",
+      "text": "Bademli kruvasanın içini merak edip kesiyorsun; arkadaşın bir parça isteyince önce kendin tadına bakıyorsun."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir dilim balkabaklı kek",
+      "emoji": "☕",
+      "text": "Balkabaklı kekin turuncu rengini arkadaşlarınla konuşuyorsun; tadına baktıktan sonra bir dilim daha sipariş ediyorsun."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir mini limonlu tart",
+      "emoji": "☕",
+      "text": "Tartın ekşiliğiyle yüzünü buruşturuyorsun; beğenmediğini söylemene rağmen ikinci lokmayı da alıyorsun."
+    },
+    {
+      "drink": "Cortado",
+      "side": "iki susamlı çubuk",
+      "emoji": "☕",
+      "text": "Susamlı çubuklarla masaya ritim tutuyorsun; arkadaşın hikâyesini anlatabilmek için kısa süre sessiz kalmanı istiyor."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir mini karamelli brownie",
+      "emoji": "☕",
+      "text": "Brownie'deki karameli koparmaya çalışırken konuşmanı durduruyorsun; arkadaşın lokmanı bitirmeni bekliyor."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir küçük tahinli çörek",
+      "emoji": "☕",
+      "text": "Tahinli çöreğin katlarını açıyorsun; sohbeti dinlediğini söylesen de gözünü tatlıdan ayırmıyorsun."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir dilim mermer kek",
+      "emoji": "☕",
+      "text": "Mermer kekin deseninde bir şekil görüyorsun; arkadaşın başka bir şekil gördüğünü söyleyince iki dilimi karşılaştırıyorsunuz."
+    },
+    {
+      "drink": "Cortado",
+      "side": "iki kuru kayısı",
+      "emoji": "☕",
+      "text": "Kayısıyı eşit paylaşacağını söyleyip büyük parçayı kendine ayırıyorsun; arkadaşın parçaları yan yana koyunca yeniden bölmeye razı oluyorsun."
+    },
+    {
+      "drink": "Cortado",
+      "side": "bir mini kaşarlı tost",
+      "emoji": "☕",
+      "text": "Tostunun kaşarı uzayınca soruyu yanıtlayamıyorsun; arkadaşın lokmanı bitirmeni beklerken aynı soruyu bir kez daha soruyor."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir vanilyalı makaron",
+      "emoji": "🍵",
+      "text": "Matcha'nın rengini görünce bunun bir içecek olup olmadığını soruyorsun; arkadaşın bardağını gösterip bir yudum denemeni öneriyor."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir dilim limonlu cheesecake",
+      "emoji": "🍵",
+      "text": "Cheesecake'in tarifini sorarken tatlını da bitiriyorsun; bilgi toplarken tadına bakmayı ihmal etmiyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "iki susamlı kurabiye",
+      "emoji": "🍵",
+      "text": "Kurabiyenin susamını peçetenden topluyorsun; masadaki en küçük ikramı da ziyan etmiyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir mini çilekli muffin",
+      "emoji": "🍵",
+      "text": "Çilekli muffinden bir lokma alırken fotoğraf çekmeye çalışıyorsun; fotoğrafta tatlıdan çok kolun çıkınca yeniden deniyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir küçük muzlu ekmek dilimi",
+      "emoji": "🍵",
+      "text": "Muzlu ekmeğe kek denince isim tartışması başlıyor; tadı güzel olduğu için iki tarafa da katıldığını söylüyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "iki beyaz çikolatalı kurabiye",
+      "emoji": "🍵",
+      "text": "Kurabiyedeki beyaz çikolatayı peynir sanıyorsun; ikinci lokmada yanıldığını fark edip konuyu sessizce değiştiriyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir mini meyveli tart",
+      "emoji": "🍵",
+      "text": "Tartındaki en sevdiğin meyveyi sona bırakıyorsun; arkadaşın ona uzanınca tabağını kendi önüne çekiyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir avuç kavrulmuş badem",
+      "emoji": "🍵",
+      "text": "Badem yerken arkadaşının hikâyesini dinliyorsun; çıtırtıdan duyamadığın son cümleyi tekrar etmesini istiyorsun."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir mini sade kruvasan",
+      "emoji": "🍵",
+      "text": "Kruvasanını bu kez matcha latte'ye batırıyorsun; yeşile dönen ucunu gösterince arkadaşların tadının nasıl olduğunu soruyor."
+    },
+    {
+      "drink": "Matcha latte",
+      "side": "bir küçük yoğurtlu meyve kasesi",
+      "emoji": "🍵",
+      "text": "Meyve kasesindeki yoğurdu karıştırıyorsun; her kaşıkta farklı bir meyve aradığın için sohbetin yarısını kaçırıyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir tarçınlı çörek",
+      "emoji": "🍵",
+      "text": "Tarçınlı çöreğini katlarından açarak yiyorsun; arkadaşın bir lokma isteyince en küçük parçayı uzatıyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "iki zencefilli bisküvi",
+      "emoji": "🍵",
+      "text": "Zencefilli bisküvinin kokusunu alınca yılbaşı hazırlıklarından söz ediyorsun; arkadaşın önce kafedeki molanın bitmesini istiyor."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir dilim elmalı turta",
+      "emoji": "🍵",
+      "text": "Turtanı soğutmak için üflerken hikâyeni anlatmaya çalışıyorsun; aynı cümleye üç kez başlamak zorunda kalıyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir küçük ballı yulaf barı",
+      "emoji": "🍵",
+      "text": "Yulaf barını yolda yemek için alıyorsun; sohbet uzayınca çantana koyamadan masada bitiriyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir mini armutlu kek",
+      "emoji": "🍵",
+      "text": "Armutlu kekin tadını alınca çocukluğundaki bahçeyi hatırlıyorsun; bir dilim bitmeden üç komşu hikâyesi anlatıyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "iki cevizli kurabiye",
+      "emoji": "🍵",
+      "text": "Cevizli kurabiyeni çaya batırıyorsun; arkadaşın az önce kıtır kurabiye sevdiğini söylediğini hatırlatıp açıklama bekliyor."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir mini balkabaklı tart",
+      "emoji": "🍵",
+      "text": "Tartın tarifini anlatırken arkadaşların başka malzemeler öneriyor; önce tadına bakmalarını, sonra tarifi değiştirmelerini istiyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir küçük peynirli börek",
+      "emoji": "🍵",
+      "text": "Böreğinin çıtır köşesini kimin yiyeceğini sohbette oylamaya açıyorsun; sonuç gelmeden arkadaşın o parçayı yiyor."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "iki kuru incir",
+      "emoji": "🍵",
+      "text": "İncirin çekirdeklerini sayarken arkadaşının hikâyesini dinliyorsun; yeni bir ayrıntı duyunca saymayı bırakıp soru soruyorsun."
+    },
+    {
+      "drink": "Chai latte",
+      "side": "bir mini vanilyalı cupcake",
+      "emoji": "🍵",
+      "text": "Cupcake'in süsünü ayrı tabağa koyup şekeri azalttığını söylüyorsun; ardından o süsü de kaşıkla yemeye başlıyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "iki limonlu kurabiye",
+      "emoji": "🌺",
+      "text": "Kırmızı çayla sarı kurabiyeyi yan yana görünce tuttuğun takımı hatırlıyorsun; ikramdan önce son maçın sonucunu konuşmaya başlıyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir mini vişneli tart",
+      "emoji": "🌺",
+      "text": "Çay mı vişneli tart mı daha ekşi diye ikisini de deniyorsun; karar vermeden önce hem çayını hem tartını bitiriyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir dilim portakallı kek",
+      "emoji": "🌺",
+      "text": "Portakallı kekinin kokusuyla masaya yaklaşan arkadaşına yer açıyorsun; yalnızca sohbeti merak ettiğini söylemesine gülüyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir avuç kuru üzüm",
+      "emoji": "🌺",
+      "text": "Hikâyedeki kişileri kuru üzümlerle göstererek anlatıyorsun; biri üzümü yiyince kimin kim olduğunu yeniden açıklamak zorunda kalıyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "iki bademli biscotti",
+      "emoji": "🌺",
+      "text": "Biscotti'ni gizlice tadıyorsun; çıtırtıyı herkes duyunca bir lokma aldığını saklamaktan vazgeçiyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir küçük ballı çörek",
+      "emoji": "🌺",
+      "text": "Bal eline bulaşınca telefonunu bırakıyorsun; anlatılan hikâyeyi ilk kez ekrana bakmadan dinliyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir mini frambuazlı cheesecake",
+      "emoji": "🌺",
+      "text": "Cheesecake'in rengi çayınınkiyle uyum sağlıyor; siparişinin yanına bir de kırmızı peçete istiyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir avuç fındık",
+      "emoji": "🌺",
+      "text": "Kabuksuz fındıkları hızlıca yiyorsun; arkadaşın boş tabağı gösterince henüz kimseye ikram etmediğini fark ediyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "iki hindistan cevizli kurabiye",
+      "emoji": "🌺",
+      "text": "Kurabiyenin hindistan cevizi siyah tişörtüne dökülüyor; arkadaşın kar yağmış gibi göründüğünü söyleyince üstünü siliyorsun."
+    },
+    {
+      "drink": "Hibiskus çayı",
+      "side": "bir mini kuru meyveli kek",
+      "emoji": "🌺",
+      "text": "Kekindeki meyveleri tek tek tahmin ediyorsun; tatlıyı bitirdiğinde tahminlerinden emin olmayıp tarifini soruyorsun."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir ballı kurabiye",
+      "emoji": "🌿",
+      "text": "Ballı kurabiye gelince çayına da bal istemekten vazgeçiyorsun; tatlı ihtiyacını kurabiyeyle karşıladığını söylüyorsun."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir küçük peynirli poğaça",
+      "emoji": "🌿",
+      "text": "Poğaçanın peynirini görünce kahvaltıdan söz ediyorsun; arkadaşların kendi uyandıkları saatin makul olduğunu savunuyor."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir dilim sade kek",
+      "emoji": "🌿",
+      "text": "Sade kekine reçel istiyorsun; arkadaşların ilk seçimini hatırlatınca reçelin yalnızca üstüne ekleneceğini söylüyorsun."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "iki tuzlu kurabiye",
+      "emoji": "🌿",
+      "text": "Tuzlu kurabiyeni çaya batırmak üzereyken arkadaşların durmanı istiyor; bir şey olmamış gibi kurabiyeyi tabağına bırakıyorsun."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir küçük tahinli bar",
+      "emoji": "🌿",
+      "text": "Tahinli barını bölmek için bıçak istiyorsun; gelen bıçak küçük kalınca arkadaşın elindekini de sana uzatıyor."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir mini lor peynirli sandviç",
+      "emoji": "🌿",
+      "text": "Sandviçten çıkan marulu yeniden içine yerleştiriyorsun; arkadaşın bir lokma isteyince önce nasıl tutması gerektiğini anlatıyorsun."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "iki kuru kayısı",
+      "emoji": "🌿",
+      "text": "Kayısıyı tek lokmada yiyip konuşmaya çalışıyorsun; çiğnemek için durunca arkadaşların kendi fikirlerini söylemeye başlıyor."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir mini havuçlu muffin",
+      "emoji": "🌿",
+      "text": "Muffinin havucunun nasıl rendelendiğini merak ediyorsun; arkadaşların tariften söz etmeye başlayınca çay molan mutfak sohbetine dönüşüyor."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir küçük simit",
+      "emoji": "🌿",
+      "text": "Simitin çay tabağına sığmıyor; masadaki peçeteleri birleştirip ikramına daha geniş bir yer açıyorsun."
+    },
+    {
+      "drink": "Nane limon",
+      "side": "bir avuç ceviz",
+      "emoji": "🌿",
+      "text": "Cevizi eşit böldüğünü söylüyorsun; arkadaşına uzattığın küçük parça elindekiyle karşılaştırılınca paylaşımı yeniden yapıyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir mini kaşarlı tost",
+      "emoji": "🍊",
+      "text": "Tostundan büyük bir lokma alıyorsun; arkadaşın soru sorunca yanıt vermek yerine başını sallamakla yetiniyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir mini yumurtalı sandviç",
+      "emoji": "🍊",
+      "text": "Sandviçindeki yumurtanın nasıl piştiğini soruyorsun; herkes başka bir öneri verince kendi soruna yanıt alamıyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir küçük zeytinli poğaça",
+      "emoji": "🍊",
+      "text": "Poğaçandaki zeytinlerin sayısını tahmin ediyorsun; en yüksek tahmini veren arkadaşın içini açmaya gönüllü oluyor."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir dilim muzlu kek",
+      "emoji": "🍊",
+      "text": "Muzlu kekle portakal suyunu birlikte seçiyorsun; arkadaşların bu kadar meyveden sonra bir de elma isteyip istemediğini soruyor."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "iki yulaflı bisküvi",
+      "emoji": "🍊",
+      "text": "Bisküvi paketini açarken poşet gürültü yapıyor; arkadaşının söylediği en önemli kelimeyi duyamayınca yeniden soruyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir küçük sade kruvasan",
+      "emoji": "🍊",
+      "text": "Kruvasanının ucunu koparıp iki porsiyon aldığını söylüyorsun; arkadaşın bir parçayı isteyince aslında tek sipariş olduğunu hatırlatıyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir mini peynirli açma",
+      "emoji": "🍊",
+      "text": "Açmanın peynirini masaya düşürüyorsun; az önce hiç kırıntı bırakmadığını söylediğin için arkadaşlarından önce kendin gülüyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir küçük meyve salatası",
+      "emoji": "🍊",
+      "text": "Meyve salatasında üzüm ararken bütün kâseyi karıştırıyorsun; sohbetteki arkadaşların diğer meyveleri de yemeni öneriyor."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir dilim yoğurtlu kek",
+      "emoji": "🍊",
+      "text": "Yoğurtlu kekin tarifinde yağ olup olmadığını soruyorsun; yanıt gelmeden önce tabağındaki keki bitiriyorsun."
+    },
+    {
+      "drink": "Portakal suyu",
+      "side": "bir mini fıstık ezmeli sandviç",
+      "emoji": "🍊",
+      "text": "Fıstık ezmeli sandviçini yerken uzun bir yanıt vermeye çalışıyorsun; konuşamayınca bardağını göstererek su istiyorsun."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir mini çikolatalı brownie",
+      "emoji": "🍒",
+      "text": "Brownie'nden büyük bir lokma alıp konuşmaya çalışıyorsun; önce bir yudum vişne suyu içmeden cümleni tamamlayamıyorsun."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir dilim vanilyalı kek",
+      "emoji": "🍒",
+      "text": "Vişne suyunu kekine dökünce yeni bir tarif denediğini söylüyorsun; arkadaşın bunun yanlışlıkla olduğunu gördüğünü hatırlatıyor."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "iki fındıklı bisküvi",
+      "emoji": "🍒",
+      "text": "Bisküvinin üstündeki fındığı önce yemeye çalışıyorsun; arkadaşın bisküviyi bitirmeden bir tane daha almamanı istiyor."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir mini peynirli tost",
+      "emoji": "🍒",
+      "text": "Tostunun üçgen kesilmesini sohbette tartışıyorsunuz; yeniden kesilmesini isteyince arkadaşların parçaların küçüleceğini hatırlatıyor."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir küçük kakaolu muffin",
+      "emoji": "🍒",
+      "text": "Muffinin kâğıdını tabağına açıp kırıntıları topluyorsun; masadaki parçaları görünce hiçbirini dökmediğini söylemekten vazgeçiyorsun."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir mini limonlu cheesecake",
+      "emoji": "🍒",
+      "text": "Limonlu cheesecake'in üstüne vişne suyu içince yüzünü buruşturuyorsun; arkadaşın sorunca yalnızca bardağın soğuk olduğunu söylüyorsun."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "iki tuzlu çubuk",
+      "emoji": "🍒",
+      "text": "Tuzlu çubuklarla tabağında çarpı yapıyorsun; beğenmediğin diziye bu şekilde puan verince arkadaşın hangi sahneyi sevmediğini soruyor."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir mini patatesli börek",
+      "emoji": "🍒",
+      "text": "Patatesli böreğinin tarifini anlatmaya başlıyorsun; arkadaşların evlerinde nasıl yapıldığını ekleyince sohbetiniz uzuyor."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir parça beyaz çikolata",
+      "emoji": "🍒",
+      "text": "Beyaz çikolatayı sonraya saklamak için tabağının arkasına koyuyorsun; arkadaşların yerini söyleyince ikramını yeniden ortaya alıyorsun."
+    },
+    {
+      "drink": "Vişne suyu",
+      "side": "bir mini meyveli kurabiye",
+      "emoji": "🍒",
+      "text": "Kurabiyende hangi meyvenin olduğunu tahmin ediyorsun; arkadaşın paketi çevirip içindekileri okuyunca tartışmayı bitiriyorsun."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir mini sade waffle",
+      "emoji": "🍓",
+      "text": "Waffle'ına sos istemiyorsun; milkshake'inin kremasını üstüne ekleyince sade tercihinden ilk lokmada vazgeçiyorsun."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "iki vanilyalı kurabiye",
+      "emoji": "🍓",
+      "text": "Kurabiyeni milkshake'e batırıp son anda çıkarıyorsun; sohbetteki arkadaşların kurabiyeyi kurtarman için can simidi emojisi gönderiyor."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir mini çikolatalı donut",
+      "emoji": "🍓",
+      "text": "Donutun deliğinden kameraya bakıyorsun; sohbetteki arkadaşların siparişinin fotoğrafından önce gözünün göründüğünü söylüyor."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir dilim sade cheesecake",
+      "emoji": "🍓",
+      "text": "Cheesecake'ine milkshake damlatıyorsun; arkadaşın görünce çilekli sos istediğini sonradan hatırlamış gibi yapıyorsun."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir avuç taze çilek",
+      "emoji": "🍓",
+      "text": "Çilekli içeceğinin yanına taze çilek de seçiyorsun; arkadaşların başka meyve sevip sevmediğini sorunca siparişini değiştirmiyorsun."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir mini muzlu muffin",
+      "emoji": "🍓",
+      "text": "Muzlu muffinle pembe içeceğinin fotoğrafını çekiyorsun; yanındaki arkadaşın ilk lokmasını almak için fotoğrafları bitirmeni bekliyor."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "iki çikolata parçalı bisküvi",
+      "emoji": "🍓",
+      "text": "Çikolata parçaları daha çok olan bisküviyi seçiyorsun; diğerine de bakınca arkadaşın onu da almak isteyip istemediğini soruyor."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir mini fıstıklı makaron",
+      "emoji": "🍓",
+      "text": "Makaronla milkshake'i aynı fotoğrafa sığdıramıyorsun; kadrajı genişletirken yan masayı da yayına alıyorsun."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir mini karamelli ekler",
+      "emoji": "🍓",
+      "text": "Eklerinin üzerindeki karameli parmağınla düzeltiyorsun; parmağını yaladıktan sonra sunum için yaptığını söyleyerek arkadaşlarını güldürüyorsun."
+    },
+    {
+      "drink": "Çilekli milkshake",
+      "side": "bir küçük peynirli kraker tabağı",
+      "emoji": "🍓",
+      "text": "Krakerle tatlı içeceği birlikte seçiyorsun; arkadaşların tatlı mı tuzlu mu sevdiğini sorunca ikisini de beğendiğini söylüyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir mini karamelli brownie",
+      "emoji": "🧊",
+      "text": "Hem içeceğinde hem brownie'de karamel bulunuyor; arkadaşın sorunca ikinci ikramını uyum bozulmasın diye seçtiğini söylüyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir mini fındıklı kruvasan",
+      "emoji": "🧊",
+      "text": "Bir elinde kruvasan, diğerinde içeceğin bulunuyor; telefonun çalınca arkadaşından bardağını tutmasını istiyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "iki bitter çikolatalı kurabiye",
+      "emoji": "🧊",
+      "text": "Bitter kurabiyeyle karamelli içeceğini sırayla tadıyorsun; hangisini daha çok sevdiğini soran arkadaşına her seferinde farklı yanıt veriyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir dilim elmalı cheesecake",
+      "emoji": "🧊",
+      "text": "Cheesecake'in elması görünsün diye dilimini çeviriyorsun; fotoğrafı çekecek arkadaşın tabağını biraz daha kendisine yaklaştırmanı istiyor."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir mini tarçınlı çörek",
+      "emoji": "🧊",
+      "text": "Frappé'n soğuk, çöreğin sıcak geliyor; yanlışlıkla bardağına üfleyince arkadaşların çöreğini işaret ediyor."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir mini vanilyalı donut",
+      "emoji": "🧊",
+      "text": "Donutun şekerini peçeteyle silmeye çalışıyorsun; peçete yapışınca tatlıyı daha temiz yemeyi beklediğini gülerek söylüyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir dilim kakaolu kek",
+      "emoji": "🧊",
+      "text": "Kekini bardağının önüne koyduğun için pipeti göremiyorsun; sohbetteki arkadaşlarının tarifine göre bardağı yana çekiyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir mini bademli tart",
+      "emoji": "🧊",
+      "text": "Tartındaki bademleri sona ayırıyorsun; arkadaşın 'Yemiyorsan ben alayım' deyince hepsini hemen kendi önüne topluyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir küçük yulaflı bar",
+      "emoji": "🧊",
+      "text": "Yulaf barını elle yiyorsun; masadaki tek çatalı da 'Belki lazım olur' diye kendi önünde tutuyorsun."
+    },
+    {
+      "drink": "Karamelli frappé",
+      "side": "bir küçük kaşarlı sandviç",
+      "emoji": "🧊",
+      "text": "Tatlı içeceğinin yanında sandviç de sipariş ediyorsun; arkadaşın öğle yemeği yiyip yemediğini sorunca yalnızca mola verdiğini söylüyorsun."
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "FLOWER_ROWS": [
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "Romantiksin ama herkese hemen güvenmiyorsun. Yakınlık kurarken kendi sınırlarını koruyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "Sadelikten hoşlanıyorsun. İçten bir jest bile seni mutlu edebiliyor."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Canlı ve dışa dönüksün. Yeni insanlarla tanışmak seni heyecanlandırıyor."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Sakinsin. Bir cevap vermeden önce düşünmek için kendine zaman tanıyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "Ne hissettiğini kolayca belli edersin; canlı tavrınla bulunduğun ortama renk katarsın."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "İlgi çekmek için uğraşmazsın; nazik tavrın ve gösterişsiz zarafetin zaten fark edilir."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Kolay beğenmezsin; ne istediğini bilirsin ve kendine uygun olanı seçersin."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Sade bir duruşun vardır; ne istediğini açıkça söylersin ve kararının arkasında durursun."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Çekingensin ama güvendiğin birinin yanında içtenliğini rahatça gösteriyorsun."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "Sadıksın; zor zamanda da sevdiğin insanların yanında kalıyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Duygularını saklamıyorsun; sevincini ve sevgini çevrendekilerle cömertçe paylaşıyorsun."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Kendine güveniyorsun; beğenilmek hoşuna gitse de kendi değerini biliyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "Sıcak davranışlarınla dikkat çekiyorsun. Birine değer verirken kendi isteklerini de önemsiyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "İçten konuşuyorsun ve gösterişe ihtiyaç duymuyorsun. Yanındaki insanın rahat hissetmesini önemsiyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Neşeni paylaşmayı seviyorsun. Birlikte olduğun insanların da keyif almasını önemsiyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Sabırlı davranıyorsun ve insanları hemen yargılamıyorsun. Bir karar vermeden önce onları dinliyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "Sevincini saklamazsın, kırıldığında da bunu içtenlikle söylersin."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Sevgini büyük sözlerle süslemezsin; bağlılığını içten ve zarif biçimde gösterirsin."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Kendi tarzını korursun; herkesin sevdiği şeyi sırf popüler diye benimsemezsin."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Zarif davranırsın; kendini anlatmak için gösterişe ihtiyaç duymazsın."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "İlgi odağı olmayı aramıyorsun; anlaşılmak ve değer görmek sana yetiyor."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "Kolay vazgeçmiyorsun; değer verdiğin bir ilişki için emek vermeyi biliyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Gösterişli bir tarafın var; sevdiklerine verdiğin değerin açıkça görülmesini istiyorsun."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Kendine özen gösteriyorsun; görünüşünden memnun olduğunda bunu söylemekten çekinmiyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "Sevdiğin kişiye ilgini belli ediyorsun. Duygularını paylaşsan da özel hayatının her ayrıntısını anlatmıyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "Şefkatli davranıyorsun ama bunu büyük sözlerle anlatmıyorsun. İlgini küçük ayrıntılarla gösteriyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Zor bir durumda bile iyi bir ihtimal arıyorsun. Hemen vazgeçmek yerine başka bir yol deniyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Huzurlu bir ortamda daha rahat hissediyorsun. Gereksiz bir tartışmaya katılmak yerine mesafeni koruyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "Duygularını açıkça paylaşırsın; samimiyetin ve enerjin hemen fark edilir."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Fazla konuşmadan da etkileyici olabilirsin; inceliğin kendini belli eder."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Ayrıntılara özen gösterirsin; seçtiğin şeylerde hem güzellik hem de kalite ararsın."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Duygularınla düşüncelerini dengede tutarsın; karar verirken ikisini de önemsersin ve net bir seçim yaparsın."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Duygularını hemen açıklamıyorsun; sevdiğin insanlara karşı derin bir bağlılık taşıyorsun."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "Güçlü duruyorsun ama sevdiklerine karşı sıcaklığını kaybetmiyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Sevildiğini hissetmek hoşuna gidiyor; sen de ilgini çekinmeden belli ediyorsun."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Takdir edilmeyi seviyorsun; emeğinin ve yeteneklerinin fark edilmesini istiyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "İltifat etmeyi seviyorsun ama yalnızca içinden geleni söylüyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "Olduğun gibi görünmeyi seviyorsun. Samimi bir yakınlığı gösterişli sözlerden daha değerli buluyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Yeni deneyimlere hevesle yaklaşıyorsun. Merakını saklamak yerine açıkça belli ediyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Birinin ne hissettiğini anlamaya çalışıyorsun. Kendi fikrini söylerken onu incitmemeye dikkat ediyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "İçinden geldiği gibi davranırsın; neşeli ve canlı yanını gizlemeyi sevmezsin."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Sevdiklerine derinden bağlanırsın; duygularını gösterişe dönüştürmezsin."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Standartların yüksektir; içine sinmeyen bir seçimi sırf kolay olduğu için kabul etmezsin."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Sınırlarını nazikçe belirtirsin; net olmak için sertleşmeyi seçmezsin."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Alçakgönüllüsün; yaptığın iyiliklerin herkes tarafından bilinmesini beklemiyorsun."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "Sözünün arkasında duruyorsun; güvenini kazanan birini yarı yolda bırakmıyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Romantik jestleri seviyorsun; küçük bir yakınlığı bile içten bir heyecanla karşılıyorsun."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Güçlü yanlarını tanıyorsun; kendini övmek konusunda biraz fazla rahat davranabiliyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "Cana yakın görünüyorsun ama biriyle arana mesafe koyman gerektiğinde bunu açıkça söylüyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "Birinin derdini dinlerken acele etmiyorsun. Yargılamak yerine onu anlamaya çalışıyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "İnsanlarla kolayca iletişim kuruyorsun. Bir ortama alışmak için uzun süre beklemiyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Her şeyi aynı anda çözmeye çalışmıyorsun. Önce sakinleşip sonra karar vermeyi tercih ediyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "Heyecanını belli etmekten çekinmezsin; seni tanıyanlar içtenliğine güvenir."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Nazik davranmayı önemsersin; insanlara değer verdiğini özenli sözlerle hissettirirsin."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Özgünlüğüne değer verirsin; beğenilerini başkalarına göre değiştirmezsin."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Kararlı davranırsın; başkalarının fikrini dinlesen de kendi kararını kendin verirsin."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Kolay inciniyorsun ama kırgınlığını anlatmak için önce güven duymak istiyorsun."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "İncinince hemen pes etmiyorsun; kendini toparlayıp sınırlarını daha net koruyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Cömertsin; sevdiğin insanları mutlu etmek için zamanını ve ilgini esirgemiyorsun."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Özgüvenlisin; ortamda dikkat çektiğinde geri planda kalmaya çalışmıyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "Romantik ayrıntıları önemsiyorsun. Sevilmek kadar saygı görmek de hoşuna gidiyor."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "Küçük şeylerden keyif alıyorsun. Mutlu olmak için kusursuz bir ortam aramıyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Heyecanını saklamakta zorlanıyorsun. Sevindiğinde çevrendekileri de sevincine ortak ediyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Başkalarının telaşına hemen kapılmıyorsun. Düşüncelerini sakin bir dille anlatabiliyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "Renkli bir kişiliğin vardır; sevgini de sevincini de açıkça gösterirsin."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Zarafetini abartılı tavırlara borçlu değilsin; doğal hâlinle dikkat çekersin."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "İlişkilerinde seçici davranırsın; yakınlık kurduğunda da özenli ve dikkatli olursun."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Gereksiz ayrıntılarla kendini anlatmaya çalışmazsın; az ve açık sözlerle ne düşündüğünü söylersin."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Kalabalık ilişkiler yerine az sayıda insana gerçekten yakın olmayı seviyorsun."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "İlgini tutarlı davranışlarınla gösteriyorsun; sevdiklerin sana güvenebileceklerini biliyor."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Sevince heyecanını gizleyemiyorsun; duygularını söylemek sana doğal geliyor."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Kendi isteklerini önemsiyorsun; herkesi memnun etmek için kendinden vazgeçmiyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "İnsanları sıcak karşılıyorsun. Sana iyi gelmeyen bir yakınlığı sürdürmek istemiyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "İnsanlara nazik yaklaşıyorsun. Birinin kendini yalnız hissettiğini fark edince yanında olmaya çalışıyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Olumlu düşünmeyi seviyorsun ama sorunları görmezden gelmiyorsun. Çözüm ararken canlılığını koruyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Dinlemeyi konuşmak kadar önemsiyorsun. Birine destek olurken kendi huzurunu da korumaya çalışıyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "Duygularını saklamadan anlatırsın; sıcak tavrınla insanlara kolayca yakınlık gösterirsin."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Birini sevdiğinde bu duyguyu hafife almazsın; sevginde derinlik ve içtenlik ararsın."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Zarif görünmeyi seversin; küçük ayrıntıları rastgele bırakmazsın."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Zarafetinden ödün vermeden hakkını savunursun; gerektiğinde tavrını açıkça ortaya koyarsın."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Övgü karşısında biraz utanıyorsun; yine de içten bir iltifat seni uzun süre mutlu ediyor."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "Açık sözlüsün; sevdiklerinle dürüst konuşurken onları kırmamaya özen gösteriyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "Sıcak ve coşkulu birisin; yakın olduğun kişiler sevginden kuşku duymuyor."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Beğenilmek hoşuna gidiyor; eleştiri duyunca kendini savunmaya biraz erken başlayabiliyorsun."
+    },
+    {
+      "slug": "gul",
+      "name": "Gül",
+      "emoji": "🌹",
+      "text": "Sevgini cömertçe gösteriyorsun ama birini mutlu etmek için kendinden vazgeçmiyorsun."
+    },
+    {
+      "slug": "papatya",
+      "name": "Papatya",
+      "emoji": "🌼",
+      "text": "Gösterişten çok içtenliğe önem veriyorsun. Sevdiğin insanların yanında kendin gibi davranabiliyorsun."
+    },
+    {
+      "slug": "aycicegi",
+      "name": "Ayçiçeği",
+      "emoji": "🌻",
+      "text": "Birlikte hareket etmekten hoşlanıyorsun. Yeni bir fikre hevesle katılıp başkalarını da cesaretlendiriyorsun."
+    },
+    {
+      "slug": "lavanta",
+      "name": "Lavanta",
+      "emoji": "🪻",
+      "text": "Sessizlikten rahatsız olmuyorsun. Yakınlık kurmak için sürekli konuşman gerektiğini düşünmüyorsun."
+    },
+    {
+      "slug": "sumbul",
+      "name": "Sümbül",
+      "emoji": "🪻",
+      "text": "İçten davranırsın ve sevdiklerine duygularını belli edersin; neşen de yüzüne yansır."
+    },
+    {
+      "slug": "yasemin",
+      "name": "Yasemin",
+      "emoji": "🌿",
+      "text": "Kendini öne çıkarmak için sesini yükseltmezsin; inceliğinle güçlü bir etki bırakırsın."
+    },
+    {
+      "slug": "orkide",
+      "name": "Orkide",
+      "emoji": "🌸",
+      "text": "Seçimini yaparken ince düşünürsün; sıradan bir seçenekle yetinmek yerine sana özgü olanı ararsın."
+    },
+    {
+      "slug": "lale",
+      "name": "Lale",
+      "emoji": "🌷",
+      "text": "Aşırı tepkiler yerine ölçülü davranmayı seçersin; duruşunu da kolay kolay değiştirmezsin."
+    },
+    {
+      "slug": "menekse",
+      "name": "Menekşe",
+      "emoji": "💜",
+      "text": "Kendini sessizce ifade ediyorsun; seni tanıyanlar ne kadar duyarlı olduğunu biliyor."
+    },
+    {
+      "slug": "karanfil",
+      "name": "Karanfil",
+      "emoji": "🌺",
+      "text": "İnsanlara güvenmek için zamana ihtiyaç duyuyorsun; güvendiğinde de sadakatini koruyorsun."
+    },
+    {
+      "slug": "sakayik",
+      "name": "Şakayık",
+      "emoji": "🌸",
+      "text": "İlgiyi seviyorsun; sana değer veren insanlara sen de aynı yakınlığı gösteriyorsun."
+    },
+    {
+      "slug": "nergis",
+      "name": "Nergis",
+      "emoji": "🌼",
+      "text": "Kendi zevklerinden eminsin; sırf başkası beğendi diye seçimlerini değiştirmiyorsun."
+    }
+  ]
+}

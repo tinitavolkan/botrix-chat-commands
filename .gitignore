@@ -1,0 +1,13 @@
+node_modules/
+.wrangler/
+dist/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.log
+coverage/
+.vscode/
+.idea/
+wrangler.local.*
+commands.local.txt
