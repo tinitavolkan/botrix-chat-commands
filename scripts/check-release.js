@@ -11,6 +11,7 @@ const allowed = new Set([
   'data/horoscopes.json', 'data/percentages.json', 'data/love.json', 'data/flowers.json',
   'data/relationships.json', 'data/cafe.json', 'data/meals.json',
   'docs/SETUP.md', 'docs/METHOD.md', 'docs/COMMANDS.md', 'docs/CUSTOMIZATION.md',
+  'docs/assets/flow.svg',
 ]);
 const files = execFileSync('git', ['ls-files', '-z'], { cwd:root, encoding:'utf8' }).split('\0').filter(Boolean);
 const missing = [...allowed].filter(name => !files.includes(name));

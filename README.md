@@ -9,17 +9,7 @@ kurulum rehberini içerir.
 
 ## Nasıl çalışıyor?
 
-```mermaid
-sequenceDiagram
-    participant U as İzleyici
-    participant B as BotRix
-    participant W as Cloudflare Worker
-    U->>B: !yemek @ornek
-    B->>W: GET ?komut=yemek&kullanici=izleyici&hedef=@ornek
-    W->>W: Kullanıcı biçimini kontrol et, menüyü seç
-    W-->>B: @ornek 🍽️ Menü: ...
-    B-->>U: Yanıtı sohbete yaz
-```
+![İzleyicinin komutu BotRix üzerinden Worker'a gider; Worker hazır metni seçer ve BotRix yanıtı sohbete yazar.](docs/assets/flow.svg)
 
 Worker metinleri `data/` dosyalarından seçer. Her çağrıda AI üretimi, başka bir
 siteden yorum çekme veya kullanıcı veritabanı işlemi yapmaz. Kick geliştirici
